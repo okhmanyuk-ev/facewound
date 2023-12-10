@@ -1,0 +1,29 @@
+
+
+// SPAWN
+
+inuse=false;
+x=0;
+y=0;
+
+
+
+
+// PHYSICAL OBJECT
+
+a=0;  // sprite width
+b=0;  // sprite height
+c=0;  // type
+d=0;  // material
+e=0;  // scalex
+f=0;  // scaley
+g=0;  // mass
+h=0;
+i=0;
+j=0;
+k=0;
+l=0;
+m=0;
+n=0;
+sprintf(stringa,"");
+sprintf(stringb,"");

@@ -1,0 +1,25 @@
+name 			grenadelauncher
+poshname		Grenade Launcher
+shoottype		pistol
+numbullets		1
+muzzletip		45
+timebetweenshots	0.01
+bulletparticle		impactgrenade
+bulletspeed		1.4
+bulletspeedrandom	0.0
+clipsize		3
+reloadsize		3
+reloadtime		15
+ammotype		grenades
+aimcone			0.02
+reloaddropclip		0
+weapontexture		grenlauncher.bmp
+guitexture		wep_grenlauncher.bmp
+damage			30
+damagefade		0.0
+shelltype		none
+slot			4
+shootsound		sound/weapons/grenadelauncher/shoot.ogg
+reloadsound		sound/weapons/grenadelauncher/reload.ogg
+screenshake		10
+width			64

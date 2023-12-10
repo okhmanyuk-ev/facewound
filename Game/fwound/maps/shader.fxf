@@ -1,0 +1,24 @@
+sampler2D g_samSrcColor;
+
+float4 MyShader( float2 Tex : TEXCOORD0 ) : COLOR0
+{
+
+    float4 Color;
+    
+ 	Color = tex2D( g_samSrcColor, Tex.xy);
+ 	
+ 	Color.a = 1.0f;
+
+    return Color;
+}
+
+
+technique PostProcess
+{
+    pass p1
+    {
+        VertexShader = null;
+        PixelShader = compile ps_2_0 MyShader();
+    }
+
+}

@@ -1,0 +1,24 @@
+name 			landmine
+poshname		Land Mine
+shoottype		pistol
+numbullets		1
+muzzletip		0
+timebetweenshots	0.0
+bulletparticle		landmine
+bulletspeed		0.0
+bulletspeedrandom	0.0
+clipsize		5
+reloadsize		1
+reloadtime		0.1
+ammotype		landmines
+aimcone			0.00
+reloaddropclip		0
+guitexture		wep_landmine.bmp
+weapontexture		landmine.bmp
+damage			0
+damagefade		0.0
+shelltype		none
+slot			5
+shootsound		sound/weapons/handgrenade/shoot.ogg
+screenshake		0
+width			64

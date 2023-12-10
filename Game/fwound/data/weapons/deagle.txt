@@ -1,0 +1,24 @@
+name 			deagle
+poshname		Desert Eagle
+shoottype		pistol
+muzzletip		45
+timebetweenshots	0.01
+bulletspeed		3.0
+bulletspeedrandom	0.2
+clipsize		8
+reloadsize		8
+reloadtime		5
+ammotype		9mm
+aimcone			0.01
+reloaddropclip		9
+weapontexture		deagle.bmp
+guitexture		wep_deagle.bmp
+damage			60
+damagefade		0.001
+shelltype		shell
+slot			2
+shootsound		sound/weapons/deagle/shoot.ogg
+reloadsound		sound/weapons/deagle/reload.ogg
+screenshake		3
+carryoffset		0
+heightoffset		-3

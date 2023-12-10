@@ -1,0 +1,25 @@
+name 			python
+poshname		Colt Python
+shoottype		pistol
+muzzletip		45
+timebetweenshots	1.00
+bulletspeed		7.0
+bulletspeedrandom	0.2
+clipsize		6
+reloadsize		6
+reloadtime		7
+ammotype		9mm
+aimcone			0.00
+reloaddropclip		1001
+// 1001 means collective shells
+weapontexture		python.bmp
+guitexture		wep_python.bmp
+damage			90
+damagefade		0.000
+shelltype		shell
+slot			2
+shootsound		sound/weapons/python/shoot.ogg
+reloadsound		sound/weapons/python/reload.ogg
+screenshake		10
+carryoffset		1
+heightoffset		-4

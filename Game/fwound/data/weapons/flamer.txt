@@ -1,0 +1,25 @@
+name 			flamer
+poshname		Flame Thrower
+shoottype		automatic
+muzzletip		80
+timebetweenshots	0.2
+bulletspeed		0.60
+bulletspeedrandom	0.10
+clipsize		200
+reloadsize		200
+reloadtime		20
+ammotype		petrol
+bulletparticle		fire
+aimcone			0.2
+reloaddropclip		9
+weapontexture		flamer.bmp
+guitexture		wep_flamer.bmp
+shootsound		sound/weapons/flamer/shoot.ogg
+damage			10
+damagefade		0
+shelltype		0
+slot			4
+screenshake		0
+carryoffset		0
+heightoffset		0
+width			64

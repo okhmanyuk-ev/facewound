@@ -1,0 +1,25 @@
+name 			bat
+poshname		Baseball Bat
+shoottype		pistol
+muzzletip		45
+timebetweenshots	2.0
+bulletparticle		static
+clipsize		0
+ammotype		none
+reloadsize		0
+reloadtime		0
+weapontexture		mpunch.tga
+width			128
+guitexture		wep_chainsaw.bmp
+damage			15
+damagefade		0
+slot			1
+shootsound		sound/weapons/swing.ogg
+screenshake		1
+
+carryoffset		-16
+heightoffset		13
+melee
+animspeed		1.0
+animframes		4
+spawndelay		2

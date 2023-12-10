@@ -1,0 +1,4 @@
+// Microsoft Visual C++ generated Help ID include file.
+// Used by facewound-setup.rc
+//
+#define HIDC_CHECK3                     0x806603ea    // IDD_FACEWOUNDSETUP_DIALOG [English (U.S.)]

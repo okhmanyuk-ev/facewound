@@ -1,0 +1,3 @@
+These files will need changing before we can sell it
+
+* thunder.wav - cs 

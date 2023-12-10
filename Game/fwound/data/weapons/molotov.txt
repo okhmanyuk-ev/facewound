@@ -1,0 +1,24 @@
+name 			molotov
+poshname		Molotov Cocktail
+shoottype		pistol
+numbullets		1
+muzzletip		40
+timebetweenshots	0.0
+bulletparticle		molotov
+bulletspeed		0.8
+bulletspeedrandom	0.0
+clipsize		1
+reloadsize		1
+reloadtime		5.0
+ammotype		molotovs
+aimcone			0.00
+reloaddropclip		0
+guitexture		wep_molotov.bmp
+weapontexture		molotov.bmp
+damage			40
+damagefade		0.0
+shelltype		none
+slot			5
+shootsound		sound/weapons/handgrenade/shoot.ogg
+screenshake		4
+width			64

@@ -1,0 +1,22 @@
+name 			handgrenade
+poshname		Hand Grenade
+shoottype		pistol
+numbullets		1
+muzzletip		18
+timebetweenshots	0.0
+bulletparticle		impactgrenade
+bulletspeed		0.4
+bulletspeedrandom	0.0
+clipsize		1
+reloadsize		3
+reloadtime		4.0
+ammotype		grenades
+aimcone			0.02
+reloaddropclip		0
+guitexture		textures/gui/wep_handgrenade.bmp
+damage			9
+damagefade		0.0
+shelltype		none
+slot			5
+shootsound		sound/weapons/handgrenade/shoot.wav
+screenshake		0

@@ -1,0 +1,4 @@
+
+
+3:   CNetcode::InitNetCode_Server(void) (socket error)
+4:   CNetcode::InitNetCode_Server(void) (failure to bind socket)

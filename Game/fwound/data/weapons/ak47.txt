@@ -1,0 +1,24 @@
+name 			ak47
+poshname		Kalashnikov 1947
+shoottype		automatic
+muzzletip		65
+timebetweenshots	0.65
+bulletspeed		3
+bulletspeedrandom	0.1
+clipsize		30
+reloadsize		30
+reloadtime		11
+ammotype		rifle
+aimcone			0.03
+reloaddropclip		9
+weapontexture		ak47.bmp
+guitexture		wep_ak47.bmp
+damage			45
+damagefade		0
+shelltype		rifleshell
+slot			3
+shootsound		sound/weapons/ak47/shoot.ogg
+reloadsound		sound/weapons/ak47/reload.ogg
+screenshake		13
+width			128
+carryoffset		-5

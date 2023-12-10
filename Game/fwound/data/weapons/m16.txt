@@ -1,0 +1,22 @@
+name 			m16
+poshname		M16 Rifle
+shoottype		automatic
+muzzletip		65
+timebetweenshots	0.35
+bulletspeed		10
+bulletspeedrandom	0.0
+clipsize		30
+reloadsize		30
+reloadtime		15
+ammotype		rifle
+aimcone			0.02
+reloaddropclip		9
+weapontexture		m16.bmp
+guitexture		wep_m16.bmp
+damage			45
+damagefade		0
+shelltype		rifleshell
+slot			3
+shootsound		sound/weapons/m16/shoot.ogg
+reloadsound		sound/weapons/m16/reload.ogg
+screenshake		10

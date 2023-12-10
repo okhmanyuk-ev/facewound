@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "setupguiMFC", "setupguiMFC.vcproj", "{85892C64-D39F-4C5F-A706-C94EA42DB7BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{85892C64-D39F-4C5F-A706-C94EA42DB7BB}.Debug.ActiveCfg = Debug|Win32
+		{85892C64-D39F-4C5F-A706-C94EA42DB7BB}.Debug.Build.0 = Debug|Win32
+		{85892C64-D39F-4C5F-A706-C94EA42DB7BB}.Release.ActiveCfg = Release|Win32
+		{85892C64-D39F-4C5F-A706-C94EA42DB7BB}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

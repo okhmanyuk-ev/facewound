@@ -1,0 +1,27 @@
+name 			bowandarrow
+poshname		Bow & Arrow
+shoottype		automatic
+numbullets		1
+muzzletip		50
+timebetweenshots	5.0
+bulletparticle		arrow
+bulletspeed		1.6
+bulletspeedrandom	0.0
+clipsize		10
+reloadsize		10
+reloadtime		0
+ammotype		arrows
+aimcone			0.0
+reloaddropclip		0
+weapontexture		bow.bmp
+guitexture		wep_bow.bmp
+damage			38
+damagefade		0.0
+shelltype		none
+slot			3
+shootsound		sound/weapons/bow/shoot.ogg
+screenshake		0
+width			128
+height			64
+heightoffset		20
+carryoffset		5

@@ -1,0 +1,4 @@
+
+
+map x			: load a map where x is the map (usually in the maps folder)
+giveall			: give all items in the game
